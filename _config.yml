@@ -26,12 +26,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Jl Wana Bakti 4, RT 18 RW 05, Margorejo, Metro Selatan
+city: Metro
+state: Lampung
+zip_code: 34121
+country: Indonesia
+phone: "-"
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
